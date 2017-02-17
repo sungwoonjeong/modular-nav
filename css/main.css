@@ -32,9 +32,19 @@ h1 {
 }
 
 ul {
+  margin: 0;
   padding: 0;
 }
 
 li {
   list-style: none;
+  display: inline-block;
+}
+
+a {
+  display: inline-block;
+  color: #0074d9;
+  text-decoration: none;
+  padding: .5em .75em;
+  width: 100%;
 }
