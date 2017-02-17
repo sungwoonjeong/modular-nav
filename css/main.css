@@ -28,3 +28,11 @@ header {
 h1 {
   margin: 0;
 }
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
