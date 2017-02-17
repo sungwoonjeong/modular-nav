@@ -48,3 +48,8 @@ a {
   padding: .5em .75em;
   width: 100%;
 }
+
+a:hover {
+  background-color: #0074d9;
+  color: #fff;
+}
