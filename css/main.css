@@ -16,3 +16,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #e2e2e2;
+}
+
+h1 {
+  margin: 0;
+}
